@@ -1,0 +1,22 @@
+{
+  "name": "svelte-ssr-dynamic-component-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/svelte-ssr-dynamic-component-repro.git"
+  },
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/svelte-ssr-dynamic-component-repro/issues"
+  },
+  "homepage": "https://github.com/TehShrike/svelte-ssr-dynamic-component-repro#readme",
+  "dependencies": {
+    "svelte": "^1.57.1"
+  }
+}
